@@ -100,7 +100,7 @@
 <td align="center">13</td>
 <td align="center">Backup de los archivos de Papá Noel</td>
 <td align="center"><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji></td>
-<td align="center"><a href="https://github.com/JoseNunhez/Advent-JS--2022/blob/main/Reto12/readme.md" rel="nofollow">Ver</a></td>
+<td align="center"><a href="https://github.com/JoseNunhez/Advent-JS--2022/blob/main/Reto13/readme.md" rel="nofollow">Ver</a></td>
 <td align="center"><a href="https://github.com/JoseNunhez/Advent-JS--2022/blob/main/Reto13/index.js">Solución</a></td>
 </tr>
 </tbody>
